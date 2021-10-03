@@ -5,7 +5,7 @@ SyS - C1aga
 
 - I'm open for any quires, or projects relating to Analyising, or creating anti-virus frameworks. (Mind I am still very shit at frameworks and analysing. Don't expect a yes if its large-scale projects.)
 
-- You can reach me at sysbusinessmail@gmail.com or sys#4882
+- You can reach me at sysbusinessmail@gmail.com
 
 
 Let's clean the Web, shall we?
