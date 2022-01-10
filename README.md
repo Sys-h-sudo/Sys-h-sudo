@@ -1,11 +1,11 @@
-SyS - C1aga
-- I am currently working on Hybrid Analytics & Minecraft servers. I'm running & inspecting VSTs, Plugins & "Anti-Virus" Softwares. 
+SyS - Nuliable
+- I am currently working on developing Minecraft Servers, and provding the best support for Revivehost. 
 
-- Learning C++ & C - Expanding my knowledge!
+- Learning Python - Expanding my knowledge!
 
-- I'm open for any quires about discord bots, or minecraft development. ( I am not a Full-stack Developer )
+- I'm open for any quires about discord bots, or minecraft development.
 
 - You can reach me at sysbusinessmail@gmail.com
 
 
-Let's expand the Web, shall we?
+
