@@ -18,7 +18,7 @@
 <a href="https://twitter.com/systemsystime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="systemsystime" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Worked with:</h2>
+<h2 align="left">Worked with (however not experienced with all):</h2>
 <h3 align="left">Mobile app Development (Design)</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
