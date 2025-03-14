@@ -6,6 +6,8 @@
 - Mineville
 - (...)
 - Resource conversion (Java > Bedrock)
+- Tebexify (Tebex -> Discord -> Minecraft)
+Tebexify is used on the Official Valorant server. [Check it out](https://discord.com/channels/679875946597056683/1190717606760554587/1350190741477130310)
 
 <h2 align="left">Reach:</h2>
 
